@@ -98,6 +98,27 @@ h4 {
 
 .nav-btn-contact:hover {
   background-color: rgba(11, 160, 160, 1.0);
+  border-color: #666666;
+  color: #f9f9f9;
+}
+
+.navbar-toggler {
+  margin-right: 40px;
+  padding-top: 5px;
+  border: none;
+  margin: 0px;
+  margin-left: 0px;
+}
+
+.navbar-toggler-icon {
+  color: #7FE5F0;
+  font-size: 28px;
+  margin: 0px;
+}
+
+.navbar-toggler:focus, .navbar-toggler:active {
+  outline: none;
+  box-shadow: none;
 }
 
 /*  X END NAVBAR STYLE X */
