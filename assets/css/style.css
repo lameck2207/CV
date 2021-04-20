@@ -155,10 +155,53 @@ h4 {
 /* X END HERO SECTION X */
 
 /* START ABOUT ME */
+.about-container {
+  color: #f9f9f9;
+  background-color: #f9f9f9;
+}
+
+.cv-block {
+  margin: 10px;
+  background-color: #197575;
+  padding: 10px;
+  text-align: center;
+  height: 95%;
+  position: relative;
+}
+
+.cv-history-container {
+  color: #f9f9f9;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.cv-timeline-text {
+  margin-top: 2em;
+}
+
+.cv-timeline-text p {
+  margin-bottom: 1.5em;
+}
 
 .cv-image {
   text-align: center;
   margin-bottom: 1rem;
 }
+
+.cv-image img {
+  height: 8rem;
+  width: 8rem;
+  border-radius: 50% ;
+}
+
+.cv-circle.icon {
+  border-radius: 50px;
+  padding: 30px;
+  border: 2px solid #cccccc;
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+
 
 /* X END ABOUT ME X */
