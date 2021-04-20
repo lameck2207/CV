@@ -278,8 +278,8 @@ h4 {
 .project-card {
   margin: 15px;
   padding: 3px;
-  background-color: rgba(6, 88, 88, .4);
-  box-shadow: 6px 6px 6px rgba(6, 88, 88, .8);
+  background-color: rgba(248,248,248, 0.75);
+  box-shadow: 6px 6px 6px rgba(109, 109, 114, 0.9);
   height: 95%;
   position: relative;
 }
@@ -287,6 +287,26 @@ h4 {
 .project-card:hover {
   background-color: rgba(248,248,248, 0.95);
   box-shadow: 7px 7px 6px rgba(109, 109, 114, 1);
+}
+
+.project-card p {
+  min-height: 5rem;
+  text-align: center;
+  padding: 1rem;
+  color: #737373;
+}
+
+.project-card-content {
+  text-align: center;
+}
+
+.project-tech-used {
+  color: #a3a3a3;
+}
+
+.project-image {
+  margin-bottom: 10px;
+  width: 100%;
 }
 
 /* X END PROJECTS */
