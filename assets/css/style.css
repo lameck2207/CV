@@ -74,4 +74,30 @@ h4 {
   color: #66a3a3;
 }
 
+.dropdwn-menu {
+  border: none;
+  background-color: #f4f4f4;
+  border-radius: 0px;
+  margin: 4px;
+}
+
+.dropdwn-item {
+  color: #005b5b;
+  outline: none;
+}
+
+.nav-btn-contact {
+  border-radius: 0px;
+  background-color: rgba(11, 160, 160, .87);
+  border-color: #666666;
+  color: #f9f9f9;
+  height: 40px;
+  letter-spacing: 1px;
+  margin-right: 10px;
+}
+
+.nav-btn-contact:hover {
+  background-color: rgba(11, 160, 160, 1.0);
+}
+
 /*  X END NAVBAR STYLE X */
