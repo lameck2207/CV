@@ -62,4 +62,16 @@ h4 {
   color: #7fb2b2;
 }
 
+.nav-link {
+  color: #006666;
+}
+
+.nav-item:hover .nav-link {
+  color: #66a3a3;
+}
+
+.nav-link.active {
+  color: #66a3a3;
+}
+
 /*  X END NAVBAR STYLE X */
