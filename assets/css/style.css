@@ -202,6 +202,43 @@ h4 {
   margin-bottom: 10px;
 }
 
+.cv-break {
+  color: #cccccc;
+}
+.cv-skills-container {
+  color: #f9f9f9;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
 
+.cv-item {
+  padding: 4em 2em 0em 2em;
+  position: relative;
+  color: #f9f9f9;
+  border-left: 1px solid;
+}
+
+.cv-skills-block {
+ margin: 10px;
+ background: radial-gradient(circle, rgba(9,136,136, 0.88) 0%, rgba(6,88,88,1) 70%);
+ padding: 10px;
+ text-align: center; 
+}
+
+.cv-history-header { 
+  text-align: center;   
+}
+
+.cv-skills-block hr {
+  border-top: 1.5px solid #f9f9f9;
+}
+.cv-skills-subheader i {
+  border-radius: 50%;
+  padding: 30px;
+  background-color: transparent;
+  font-size: 2.4em;
+  margin-bottom: 0.5em;
+  border: 20px solid #cccccc;
+}
 
 /* X END ABOUT ME X */
