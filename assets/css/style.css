@@ -265,7 +265,28 @@ h4 {
 /* X END ABOUT ME X */
 
 /* START PROJECTS */
+
 .portfolio-container {
   margin: 10px;
 }
+
+.cards-container {
+  display: flex;
+  background-color: #7fb2b2;
+}
+
+.project-card {
+  margin: 15px;
+  padding: 3px;
+  background-color: rgba(6, 88, 88, .4);
+  box-shadow: 6px 6px 6px rgba(6, 88, 88, .8);
+  height: 95%;
+  position: relative;
+}
+
+.project-card:hover {
+  background-color: rgba(248,248,248, 0.95);
+  box-shadow: 7px 7px 6px rgba(109, 109, 114, 1);
+}
+
 /* X END PROJECTS */
