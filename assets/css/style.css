@@ -39,6 +39,27 @@ h4 {
   margin: 1em;
 }
 
+.filler-text h4 {
+  margin: 0px;
+}
+
+.filler-btn {
+  border-radius: 0px;
+  background-color: rgba(11,160,160,0.87);
+  border-color: #666666;
+  color: #f9f9f9;
+  height: 3em;
+  letter-spacing: 1px;
+  margin: 1.5em;
+
+}
+
+.filler-btn:hover {
+  background-color: rgba(11,160,160,0.97);
+  border-color: #666666;
+  color: #f9f9f9;
+}
+
 /* START NAVBAR STYLE */
 .navbar {
   background-color: #f9f9f9;
