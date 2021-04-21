@@ -397,4 +397,24 @@ h4 {
   color: #C0C0C0;
 }
 
+.card-header {
+  background-color: #006666;
+  border-radius: 0px;
+  color: #f9f9f9;
+  text-align: center;
+}
+
+
+.testimonial-header-btn {
+  color: white;
+  text-decoration: none;
+  background-color:#006666;
+  max-width: 100%;
+}
+
+.card-body {
+  text-align: justify;
+  border: 2px solid #cccccc;
+}
+
 /* X END TESTIMONIAL X */ 
