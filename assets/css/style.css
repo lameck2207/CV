@@ -334,3 +334,67 @@ h4 {
   }
 
 /* X END PROJECTS */
+
+/* START TESTIMONIAL */ 
+.testimonials-container {
+  background-color: #f9f9f9;
+  margin: 10px;
+}
+
+.testimonials-md-container {
+  display: flex;
+}
+.testimonials-container-header {
+  text-align: center;
+  color: #f9f9f9;
+}
+
+.testimonial-content {
+  color: #f9f9f9;
+}
+
+.testimonial-block {
+  margin: 10px;
+  padding: 20px;
+  background-color: #197575;
+  position: relative;
+  height: 95%;
+}
+
+.testimonial-subheader {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.testimonial-quote {
+  text-align: justify;
+}
+
+.client-image {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.client-image img {
+  height: 8em;
+  width: 8em;
+  border-radius: 50%;
+}
+
+.client-image-small {
+  text-align: center;
+  margin-bottom: 1em;
+  display: block;
+}
+
+.client-image-small img {
+  height: 4em;
+  width: 4em;
+  border-radius: 50%;    
+}
+
+.client-title {
+  color: #C0C0C0;
+}
+
+/* X END TESTIMONIAL X */ 
