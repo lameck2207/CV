@@ -363,7 +363,7 @@ h4 {
 
 .testimonial-subheader {
   text-align: center;
-  margin-bottom: 1em;
+  margin-bottom: 1rem;
 }
 
 .testimonial-quote {
@@ -372,24 +372,24 @@ h4 {
 
 .client-image {
   text-align: center;
-  margin-bottom: 1em;
+  margin-bottom: 1rem;
 }
 
 .client-image img {
-  height: 8em;
-  width: 8em;
+  height: 8rem;
+  width: 8rem;
   border-radius: 50%;
 }
 
 .client-image-small {
   text-align: center;
-  margin-bottom: 1em;
+  margin-bottom: 1rem;
   display: block;
 }
 
 .client-image-small img {
-  height: 4em;
-  width: 4em;
+  height: 4rem;
+  width: 4rem;
   border-radius: 50%;    
 }
 
