@@ -75,12 +75,20 @@ h4 {
   height: 40px;
   letter-spacing: 1px;
   padding-left: 10px;
+  padding-right: 10px;
   font-weight: 400;
   margin: 0px;
 }
 
 .navbar-brand:hover {
   color: #7fb2b2;
+}
+
+.nav-item {
+  background-color: transparent;
+  letter-spacing: 1px;
+  font-weight: 400;
+  padding-left: 2px;
 }
 
 .nav-link {
