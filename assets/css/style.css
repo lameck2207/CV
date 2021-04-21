@@ -431,7 +431,7 @@ h4 {
 .contact-container {
   background-image: url("../images/contactbg-tile.jpg");
   background-repeat: repeat;
-  margin: 20px;
+  margin: 10px;
 }
 
 .contact-header {
@@ -439,11 +439,11 @@ h4 {
 }
 
 .portfolio-container-subhead {
-  color: #f9f9f9;
-  text-align: center;
+color: #f9f9f9;
+text-align: center;
 }
 
-.contact.form {
+.contact-form {
   margin: 4%;
   text-align: center;
   color: #f9f9f9;
@@ -452,10 +452,9 @@ h4 {
   border: 2px solid #cccccc;
 }
 
-.contact.form:hover {
-  background-color: rgba(6, 102, 102, 0.92);
+.contact-form:hover {
+background-color: rgba(6, 102, 102, 0.92);
 }
-
 .text-area {
   border-color: #006666;
   margin-top: 5px;
