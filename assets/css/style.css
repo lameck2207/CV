@@ -511,3 +511,26 @@ h4 {
 }
 
 /*  X END CONTACT AREA  X */
+
+/* START FOOTER */
+
+.footer-social-links {
+  text-align: center;
+  margin: 0px 10px 10px 10px;
+}
+
+.social-icon {
+  color: #f4f4f4;
+  font-size: 1.3em;
+  margin-right: 2em;
+  border-radius: 50%;
+  padding: 0.4em;
+  background-color: #006666;
+}
+
+.social-icon:hover {
+  background-color:  #4c9393;
+  color: #ffffff;
+}
+
+/* X END FOOTER X */
