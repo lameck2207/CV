@@ -268,45 +268,67 @@ h4 {
 
 .portfolio-container {
   margin: 10px;
-}
-
-.cards-container {
-  display: flex;
-  background-color: #7fb2b2;
-}
-
-.project-card {
-  margin: 15px;
-  padding: 3px;
-  background-color: rgba(248,248,248, 0.75);
-  box-shadow: 6px 6px 6px rgba(109, 109, 114, 0.9);
-  height: 95%;
-  position: relative;
-}
-
-.project-card:hover {
-  background-color: rgba(248,248,248, 0.95);
-  box-shadow: 7px 7px 6px rgba(109, 109, 114, 1);
-}
-
-.project-card p {
-  min-height: 5rem;
-  text-align: center;
-  padding: 1rem;
-  color: #737373;
-}
-
-.project-card-content {
-  text-align: center;
-}
-
-.project-tech-used {
-  color: #a3a3a3;
-}
-
-.project-image {
-  margin-bottom: 10px;
-  width: 100%;
-}
+  }
+  
+  .cards-container {
+      display: flex;
+      background-color: #7fb2b2;
+  }
+  
+  .project-card {
+      margin: 15px;
+      padding: 3px;
+      background-color: rgba(248,248,248, 0.75);
+      box-shadow: 6px 6px 6px rgba(109, 109, 114, 0.9);
+      height: 95%;
+      position: relative;
+      
+  }
+  
+  .project-card:hover {
+      background-color: rgba(248,248,248, 0.95);
+     box-shadow: 7px 7px 6px rgba(109, 109, 114, 1);
+  }
+  
+  .project-card p {
+      min-height: 5em;
+      text-align: center;
+      padding: 1em;
+      color: #737373;
+  }
+  .project-card-content {
+      text-align: center;
+  }
+  
+  .project-tech-used {
+      color: #a3a3a3;
+  }
+  
+  .project-image {
+      margin-bottom: 10px;
+      width: 100%;
+  }
+  
+  .project-card h3 {
+      color: #666666;
+  }
+  
+  .portfolio-btn-contact {
+      border-radius: 0px;
+      background-color: rgba(11,160,160,0.87);
+      border-color: #666666;
+      color: #f9f9f9;
+      height: 40px;
+      letter-spacing: 1px;
+      margin-bottom: 5px;
+      margin-top: 5px;
+      max-width: 100%;
+  }
+  
+   
+  .portfolio-btn-contact:hover {
+      color: #f9f9f9;
+      background-color: rgba(11,160,160,0.97);
+  }
 
 /* X END PROJECTS */
