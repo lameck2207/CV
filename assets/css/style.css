@@ -308,6 +308,7 @@ h4 {
   .project-image {
       margin-bottom: 10px;
       width: 100%;
+      height: auto;
   }
   
   .project-card h3 {
