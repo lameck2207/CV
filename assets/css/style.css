@@ -417,4 +417,97 @@ h4 {
   border: 2px solid #cccccc;
 }
 
-/* X END TESTIMONIAL X */ 
+/* X END TESTIMONIAL X */
+
+/*  START CONTACT AREA  */
+.contact-container {
+  background-image: url("../images/contactbg-tile.jpg");
+  background-repeat: repeat;
+  margin: 20px;
+}
+
+.contact-header {
+  color: #f9f9f9;
+}
+
+.portfolio-container-subhead {
+  color: #f9f9f9;
+  text-align: center;
+}
+
+.contact.form {
+  margin: 4%;
+  text-align: center;
+  color: #f9f9f9;
+  background-color: rgba(6, 102, 102, 0.95);
+  padding: 10px;
+  border: 2px solid #cccccc;
+}
+
+.contact.form:hover {
+  background-color: rgba(6, 102, 102, 0.92);
+}
+
+.text-area {
+  border-color: #006666;
+  margin-top: 5px;
+  border-radius: 0px;
+}
+
+.btn-contact-send {
+  border-radius: 0px;
+  color: #006666;
+  border-color: #006666;
+  background-color: #f9f9f9;
+  font-size: 18px;
+  letter-spacing: 1px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.btn-contact-send:hover {
+  color: #f9f9f9;
+  background-color: transparent;
+  border-color: #f9f9f9;
+  font-weight: 400;
+}
+
+.modal-header {
+  display: inline;
+  text-align: center;
+  background-color: #006666;
+  border-radius: 1px;
+}
+
+.modal-title {
+  color: #f9f9f9;
+}
+
+.modal-body {
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.modal-footer {
+  display: inline;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.modal-btn {
+  border-radius: 0px;
+  background-color: #006666;
+  border-color: #006666;
+  color: #f9f9f9;
+  height: 40px;
+  letter-spacing: 1px;
+  margin-right: 10px;
+}
+
+.modal-btn:hover {
+  background-color: #f9f9f9;
+  color: #006666;
+  border-color: #006666;
+}
+
+/*  X END CONTACT AREA  X */
