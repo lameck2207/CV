@@ -302,6 +302,7 @@ h4 {
   
   .project-tech-used {
       color: #a3a3a3;
+      align-items: flex-end;
   }
   
   .project-image {
