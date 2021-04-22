@@ -41,3 +41,48 @@ I chose the two core colours for my website: #cccccc and #006666, wich contrast 
     - This project uses Google Fonts to provide the Rubik font style used throughout the website.
 - Visual Studio Code
     - This project was built using the Vs Code IDE to develop the code.
+
+## Testing
+The HTML code was tested using the [W3C Markup Validation Service](https://validator.w3.org/) which showed an error where the button tags were nested inside anchor tags. This has been fixed by nesting them inside form tags instead. The validation service now shows no errors or warnings. 
+
+The CSS was tested using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) which showed one parsing error. This has been fixed by removing it. 
+  
+The responsiveness of the Bootsrap Grid was tested using Chrome Developer tools, responsive on all devices from the smallest, Iphone SE, to tablets and then on a wide screen device.
+- On an Iphone SE device, the client-title in the collapsable client-stories expanded wider than the client-header element and caused a marign on the right-hand side of the page. This was fixed by applying the style "width: 100%" to the client-title element.
+- I used WhatIsMyScreenResolution's [MultiScreenTest](http://whatismyscreenresolution.net/multi-screen-test) to test my websites responsiveness on screen sizes much larger than my own 14inch laptop screen. This showed me that I needed to fix the position of the skills list and buttons inside the project cards as they were moving outside of them on xl screen sizes. I have done this and they now scale properly.
+  
+Testing ScrollSpy showed a delay in the nav link becoming active. I fixed this by setting a ScrollSpy data offset of 50. Now each navlink changes to active at the correct position.   
+
+All elements with a blank target attriute attribute correctly open links in a new tab and leaves the website visible in its existing tab.  
+  
+Both links to download a PDF of my CV in a new tab and leaves the website visible in its existing tab.  
+
+The contact form validates input the phone and email fields. It displays an error message if all forms are not filled in. 
+
+## Deployment 
+This project is deployed using GitHub and hosted using GitHub Pages. The only project branch for this repository is the master branch and it is this branch which was used to deploy the project. The intended landing page has been titled index.html to ensure this site deploys correctly with GitHub Pages.  
+
+For the project submitted to the Code Institute for assessment, the Master Branch and the project deployed to GitHub pages are identital.  
+
+To run my project locally, select "Clone or Download" at the top of this GitHub repository. Select and copy the HTTPs URL provided. This URL can be used to clone my project by opening your Git Bash Terminal and using the command "git clone" followed by the URL.  
+
+For any problems or questions relating to creating a local clone of my project, please refer to [GitHub's FAQ](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) 
+
+## CREDITS 
+
+#### Content
+All text content was written by myself.  
+
+The downloadable CV is a mock-up version of my own CV using a Word Template. The paragraph template text on the CV has been let unedited. 
+
+#### Media
+All backgrounds were made using [SiteOrigin](http://bg.siteorigin.com).  
+
+All images other than the Education image came from [Unsplash](https://unsplash.com/).  
+
+The Education image is my own.  
+
+The project mockups used in the portfolio section were made using [SmartMockups](http://ami.responsivedesign.is/). The projects featured in these are either Code Institute projects that I have completed, or projects of my own.
+
+#### HTML & CSS
+The CSS for the radial background for the skills banner was generated using [CSSGradient](https://cssgradient.io/). 
