@@ -24,3 +24,20 @@ I chose the two core colours for my website: #cccccc and #006666, wich contrast 
 
 ![websafe-066666](https://github.com/Anthoni-Mathias/Portifolio-number-2/blob/main/assets/readme-images/websafe-006666.png).
 ![websafe-cccccc](https://github.com/Anthoni-Mathias/Portifolio-number-2/blob/main/assets/readme-images/websafe-cccccc.png).
+
+#### Future Features 
+- [ ] Add the jQuery that will make the contact form work 
+- [ ] Include real projects and real client stories
+
+## Technologies
+- HTML5
+    - This project uses HTML to build the building blocks of the website. 
+- CSS3
+    - This project uses CSS3 to style the website's HTML.
+- [BootstrapCDN v4.4](https://www.bootstrapcdn.com). 
+    - This project uses Bootstrap to render it fuller responsive across a range of devices. 
+    - The project also uses BootstrapCDN to provide icons from [FontAwesome](https://www.bootstrapcdn.com/fontawesome/)
+- [Google Fonts](https://fonts.google.com)
+    - This project uses Google Fonts to provide the Rubik font style used throughout the website.
+- Visual Studio Code
+    - This project was built using the Vs Code IDE to develop the code.
