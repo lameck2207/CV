@@ -18,3 +18,9 @@ Two wireframes guided the end design of this project, the first is for mobile de
 - [Wireframe for mobile devices](https://github.com/Anthoni-Mathias/Portifolio-number-2/blob/main/assets/readme-images/mobile-wireframe.png)
 
 - [Wireframe for larger devices](https://github.com/Anthoni-Mathias/Portifolio-number-2/blob/main/assets/readme-images/desktop-wireframe.png)
+
+#### Colour Scheme
+I chose the two core colours for my website: #cccccc and #006666, wich contrast well and look clean. All colours used are based around these, being either tints or shades and provide consistency that ties togheder all sections of the website.
+
+![websafe] (https://github.com/Anthoni-Mathias/Portifolio-number-2/blob/main/assets/readme-images/websafe-006666.png)
+![websafe] (https://github.com/Anthoni-Mathias/Portifolio-number-2/blob/main/assets/readme-images/websafe-cccccc.png)
