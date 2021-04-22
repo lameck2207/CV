@@ -80,7 +80,7 @@ All backgrounds were made using [SiteOrigin](http://bg.siteorigin.com).
 
 All images other than the Education image came from [Unsplash](https://unsplash.com/).  
 
-The Education image is my own.  
+I made the photo.  
 
 The project mockups used in the portfolio section were made using [SmartMockups](http://ami.responsivedesign.is/). The projects featured in these are either Code Institute projects that I have completed, or projects of my own.
 
