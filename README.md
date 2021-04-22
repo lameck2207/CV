@@ -15,4 +15,5 @@ This website was primarily designed with prospective clients in mind. I envision
 #### Wireframes
 Two wireframes guided the end design of this project, the first is for mobile devices, and the second scales up this for larger devices. I made both using [balsamiq](https://balsamiq.com/).
 
--
+- [Wireframe for mobile devices](https://github.com/Anthoni-Mathias/Portifolio-number-2/blob/main/assets/readme-images/mobile-wireframe.png)
+-[Wireframe for larger devices](https://github.com/Anthoni-Mathias/Portifolio-number-2/blob/main/assets/readme-images/desktop-wireframe.png)
