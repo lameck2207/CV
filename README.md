@@ -7,6 +7,9 @@ This static website is designed as an online portfilio taht can be used during a
 ## UX
 This website was primarily designed with prospective clients in mind. I envisioned my ideal costumer to be a small business owner looking for a website tailored to their busines needs and ethos. They needes to find navigating the site an easy and intuitive experience, and this needed to be true they viewed my website on a mobile device, tablet or computer.
 
+As my prospective clients scrolled through my site, I wanted them to get an overview of myself, my ethos and my employment and education history. I also wanted them to be able to download my CV if they wanted a more formal representation of this. By using project cards, I wanted to show off some of the projects I have done. For potential clients and employers that are more technical, I wanted them to be able to see projects I have created and access my Github profile. By using client stories, I wanted them to get a sense of the impact these projects had on the individuals and businesses they were designed for.  
+
+Finally, at the end of a user's journey through my webpage, I needed them to have a way to contact me so we could chat about any potential projects. In the footer I needed icons that would link the user to my external social media sites, including GitHub, LinkedIn and Twitter, while keeping my own webpage visible. At the close here, in case the user had not done so already, I also needed to prompt users with another opportunity to download my CV.
 #### User Stories 
 - As a small business owner in need of a website, I want to view a website where I can really get a sense of the designer, what they have done for other businesses and what they can do for me. I want a sense that a I will be working with a real person who really cares about the website they will build for me and the impact it will have on my business.  
 
@@ -25,6 +28,9 @@ I chose the two core colours for my website: #cccccc and #006666, wich contrast 
 ![websafe-066666](https://github.com/Anthoni-Mathias/Portifolio-number-2/blob/main/assets/readme-images/websafe-006666.png).
 ![websafe-cccccc](https://github.com/Anthoni-Mathias/Portifolio-number-2/blob/main/assets/readme-images/websafe-cccccc.png).
 
+## FEATURES
+The page is headed by a navigation bar which is responsive to screen size. My name in the top left corner acts as a Navbar Brand and returns a user to the top of the page when
+clicked. The page is footed by a footer which contains social icons to my GitHub and LinkedIn pages and a download cion to download my CV.
 #### Future Features 
 - [ ] Add the jQuery that will make the contact form work 
 - [ ] Include real projects and real client stories
