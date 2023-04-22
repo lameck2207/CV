@@ -35,7 +35,7 @@ h4 {
 
 .filler-text {
   text-align: center;
-  color: #666666;
+  color: #080606;
   margin: 1em;
 }
 
@@ -154,7 +154,7 @@ h4 {
 
 /* START HERO SECTION */
 .jumbotron {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url("../images/lameck.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(126, 5, 5, 0.5)), url("../images/lameck.jpg");
   border-radius: 0px;
   background-position: center;
   background-repeat: no-repeat;
